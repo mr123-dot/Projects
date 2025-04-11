@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "my_second_app",
             "cwd": "my_second_app",
@@ -63,6 +64,26 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
+        },
+        {
+            "name": "stage (release mode)",
+            "cwd": "stage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stage (profile mode)",
+            "cwd": "stage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stage",
+            "cwd": "stage",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
