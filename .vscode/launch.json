@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
 
+
         {
             "name": "my_second_app",
             "cwd": "my_second_app",
@@ -65,6 +66,7 @@
             "type": "dart",
             "flutterMode": "release"
         },
+        
         {
             "name": "stage (release mode)",
             "cwd": "stage",
@@ -84,6 +86,34 @@
             "cwd": "stage",
             "request": "launch",
             "type": "dart"
+        },
+
+
+
+
+
+        {
+            "name": "madman (release mode)",
+            "cwd": "madman",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "madman (profile mode)",
+            "cwd": "madman",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "madman",
+            "cwd": "madman",
+            "request": "launch",
+            "type": "dart"
         }
+
+
+
     ]
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413180560156",
+    "project_id": "coursappfirebase",
+    "storage_bucket": "coursappfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413180560156:android:3bcb3405df475acdb3f0d9",
+        "android_client_info": {
+          "package_name": "com.example.madman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXp5dZmgQ9znUQUafd6BVw32cPdgRiPe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
